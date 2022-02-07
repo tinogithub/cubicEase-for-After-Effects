@@ -1,4 +1,4 @@
-function superEase (IN, start, end, newStart, newEnd, bezier) {
+function cubicEase (IN, start, end, newStart, newEnd, bezier) {
 
     ////////////// CUBIC-BEZIER FUNCTION BEGIN by Friedrich Schultheiss
     // These values are established by empiricism with tests (tradeoff: performance VS precision)
